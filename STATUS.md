@@ -3,11 +3,11 @@
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | planned |
-| First artifact | `templates/deliverable-package-index-template.md` completed as scaffolded local artifact |
-| Published artifact | private/not-public |
+| Public GitHub repo | published scaffold |
+| First artifact | `templates/deliverable-package-index-template.md` completed as scaffolded public artifact |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
@@ -16,4 +16,4 @@
 
 Approved labels: `planned`, `scaffolded`, `published`, `released`, `paused`, `deprecated`, and `private/not-public`.
 
-This repo is local-only and does not publish templates, release models or datasets, offer services, or approve customer deliverables.
+This repo is a public scaffold and does not release models or datasets, offer services, or approve customer deliverables.

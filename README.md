@@ -1,12 +1,12 @@
 # Engineering Deliverables Template
 
 Status: scaffolded
-Publication state: private/not-public
+Publication state: public scaffold
 Release state: not released
 
 ## What This Repo Is
 
-`engineering-deliverables-template` is a Phase 6 local-only scaffold for public-safe professional engineering packaging templates: README templates, STATUS templates, CLAIMS templates, PUBLIC_BOUNDARY templates, BOM templates, control narratives, commissioning templates, simulation report templates, model cards, dataset cards, handoff checklists, and reviewable package structures.
+`engineering-deliverables-template` is a Phase 6 public scaffold for public-safe professional engineering packaging templates: README templates, STATUS templates, CLAIMS templates, PUBLIC_BOUNDARY templates, BOM templates, control narratives, commissioning templates, simulation report templates, model cards, dataset cards, handoff checklists, and reviewable package structures.
 
 ## What This Repo Is Not
 
@@ -17,11 +17,11 @@ This repo is not stamped engineering, a certification package, code-compliance a
 | Field | Value |
 | --- | --- |
 | Status | scaffolded |
-| Publication state | private/not-public |
+| Publication state | public scaffold |
 | Release state | not released |
-| Public GitHub repo | planned |
-| First artifact | `templates/deliverable-package-index-template.md` completed as scaffolded local artifact |
-| Published artifact | private/not-public |
+| Public GitHub repo | published scaffold |
+| First artifact | `templates/deliverable-package-index-template.md` completed as scaffolded public artifact |
+| Published artifact | scaffolded |
 | Released artifact | not released |
 | Profile routing | planned |
 | Proof-stack routing | planned |
