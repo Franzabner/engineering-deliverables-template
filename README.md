@@ -20,7 +20,7 @@ This repo is not stamped engineering, a certification package, code-compliance a
 | Publication state | private/not-public |
 | Release state | not released |
 | Public GitHub repo | planned |
-| First artifact | `templates/deliverable-package-index-template.md` scaffold |
+| First artifact | `templates/deliverable-package-index-template.md` completed as scaffolded local artifact |
 | Published artifact | private/not-public |
 | Released artifact | not released |
 | Profile routing | planned |
@@ -64,4 +64,4 @@ Profile routing and proof-stack routing are planned only. Any link from `Franzab
 
 ## First Build Task
 
-First artifact scaffolded: `templates/deliverable-package-index-template.md`.
+First artifact scaffolded: `templates/deliverable-package-index-template.md` now covers problem statement, synthetic engineering deliverable context, README/STATUS/CLAIMS/PUBLIC_BOUNDARY discipline, BOM/control narrative/commissioning/simulation/model-card/dataset-card template boundaries, handoff checklist, non-certified and non-stamped disclaimer, validation questions, proof limits, and public/private/sealed checklist.
